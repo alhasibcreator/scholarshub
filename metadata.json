@@ -1,0 +1,7 @@
+{
+  "name": "Scholars CSE Hub",
+  "description": "A premium academic resource-sharing platform for CSE students at the University of Scholars, featuring searchable notes, departmental notices, and a Gemini-powered AI study assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
